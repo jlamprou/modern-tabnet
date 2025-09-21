@@ -41,13 +41,6 @@ A production-ready PyTorch implementation of **TabNet: Attentive Interpretable T
 - SciPy
 - tqdm
 
-### Install from Source
-```bash
-git clone https://github.com/yourusername/modern-tabnet
-cd modern-tabnet
-pip install -e .
-```
-
 ### Dependencies
 ```bash
 pip install torch torchvision torchaudio
