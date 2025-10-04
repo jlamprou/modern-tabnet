@@ -404,14 +404,6 @@ This implementation stays faithful to the original TabNet paper while adding pro
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-### Development Setup
-```bash
-git clone https://github.com/yourusername/modern-tabnet
-cd modern-tabnet
-pip install -e ".[dev]"
-pytest tests/
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
